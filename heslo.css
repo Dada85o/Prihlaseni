@@ -8,6 +8,7 @@ body{
     background-color: rgba(33, 163, 163, 0.705);
     border: 1px dotted black;
     width: 600px;
+    height: 300px;
 }
 
 main{
@@ -26,4 +27,12 @@ main{
     color: aliceblue;
     padding: 5px;
     margin: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.nadpis{
+    display: flex;
+    justify-content: center;
 }
